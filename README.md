@@ -3,7 +3,7 @@
 
 ### 爬取對象：
 
-[愛評網]("http://www.ipeen.com.tw/search/taipei/000/1-0-2-15/")
+[愛評網](http://www.ipeen.com.tw/search/taipei/000/1-0-2-15/)
 
 ![](https://i.imgur.com/6o0Fti8.jpg)
 
